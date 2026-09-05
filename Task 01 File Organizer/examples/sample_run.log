@@ -1,0 +1,82 @@
+*********************************************************************
+** Visual Studio 2022 Developer PowerShell v17.13.0
+** Copyright (c) 2022 Microsoft Corporation
+PS E:\ArithMatrix Software Development Internship\Task 01 File Organizer> cd "E:\ArithMatrix Software Development Internship\Task 01 File Organizer"
+>> dotnet build
+Restore complete (1.7s)
+  FileOrganizer succeeded (0.4s) → src\FileOrganizer\bin\Debug\net9.0\FileOrganizer.dll
+  FileOrganizer.Tests succeeded (0.7s) → tests\FileOrganizer.Tests\bin\Debug\net9.0\FileOrganizer.Tests.dll
+
+Build succeeded in 3.5s
+
+Workload updates are available. Run `dotnet workload list` for more information.
+PS E:\ArithMatrix Software Development Internship\Task 01 File Organizer> dotnet run --project src\FileOrganizer -- --source "E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestSource" --target "E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestTarget"
+==================================================
+FILE ORGANIZER
+==================================================
+Mode: LIVE
+Source: E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestSource
+Target: E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestTarget
+
+[MOVED]   archive.zip.txt -> Documents\archive.zip.txt
+[MOVED]   document.pdf.txt -> Documents\document.pdf.txt
+[MOVED]   photo.jpg.txt -> Documents\photo.jpg.txt
+[MOVED]   README.txt -> Documents\README.txt
+[MOVED]   song.mp3.txt -> Documents\song.mp3.txt
+[MOVED]   unknown.xyz.txt -> Documents\unknown.xyz.txt
+[MOVED]   video.mp4.txt -> Documents\video.mp4.txt
+
+Summary:
+Files scanned: 8
+Files organized: 8
+Errors: 0
+==================================================
+PS E:\ArithMatrix Software Development Internship\Task 01 File Organizer> dotnet run --project src\FileOrganizer -- --source "E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestSource" --target "E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestTarget"
+==================================================
+FILE ORGANIZER
+==================================================
+Mode: LIVE
+Source: E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestSource
+Target: E:\ArithMatrix Software Development Internship\Task 01 File Organizer\TestTarget
+
+[MOVED]   archive.zip -> Archives\archive.zip
+[MOVED]   document.pdf -> Documents\document.pdf
+[MOVED]   photo.jpg -> Images\photo.jpg
+[MOVED]   README -> Others\README
+[MOVED]   song.mp3 -> Audio\song.mp3
+[MOVED]   unknown.xyz -> Others\unknown.xyz
+[MOVED]   video.mp4 -> Video\video.mp4
+
+Summary:
+Files scanned: 7
+Files organized: 7
+Errors: 0
+==================================================
+PS E:\ArithMatrix Software Development Internship\Task 01 File Organizer> dotnet test
+Restore complete (0.9s)
+  FileOrganizer succeeded (0.5s) → src\FileOrganizer\bin\Debug\net9.0\FileOrganizer.dll
+  FileOrganizer.Tests succeeded (0.2s) → tests\FileOrganizer.Tests\bin\Debug\net9.0\FileOrganizer.Tests.dll
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.8.2+699d445a1a (64-bit .NET 9.0.2)
+[xUnit.net 00:00:00.16]   Discovering: FileOrganizer.Tests
+[xUnit.net 00:00:00.23]   Discovered:  FileOrganizer.Tests
+[xUnit.net 00:00:00.23]   Starting:    FileOrganizer.Tests
+[MOVED]   archive.zip -> Archives\archive.zip
+[MOVED]   movie.mp4 -> Video\movie.mp4
+[MOVED]   photo.jpg -> Images\photo.jpg
+[MOVED]   report.pdf -> Documents\report.pdf
+[MOVED]   song.mp3 -> Audio\song.mp3
+[MOVED]   project.final.report.pdf -> Documents\project.final.report_1.pdf (renamed to avoid conflict)
+[MOVED]   report.pdf -> Documents\report_2.pdf (renamed to avoid conflict)
+[MOVED]   photo.jpg -> Images\photo.jpg
+[MOVED]   report.pdf -> Documents\report_1.pdf (renamed to avoid conflict)
+[MOVED]   data.xyz -> Others\data.xyz
+[DRY-RUN] photo.jpg -> Images\photo.jpg
+[MOVED]   README -> Others\README
+[xUnit.net 00:00:00.46]   Finished:    FileOrganizer.Tests
+  FileOrganizer.Tests test succeeded (6.6s)
+
+Test summary: total: 34, failed: 0, succeeded: 34, skipped: 0, duration: 6.5s
+Build succeeded in 8.7s
+
+Workload updates are available. Run `dotnet workload list` for more information.
+PS E:\ArithMatrix Software Development Internship\Task 01 File Organizer>
