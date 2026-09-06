@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=220&section=header&text=Task%2001%20-%20File%20Organizer&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ArithMatrix%20Virtual%20Internship%20Program%202026&descAlignY=60&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Automated+File+Organization;Safe+Conflict+Resolution;Dry-Run+%26+CLI+Workflow;Built+with+C%23+%26+.NET+9" />
 </p>
 <div align="center">
 
@@ -339,5 +339,5 @@ It fulfills all official internship requirements, including CLI configuration, d
 <p align="center">
   <sub>Built with C# and .NET 9 as part of the ArithMatrix Virtual Internship Program 2026</sub>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=venum&color=0:00BFFF,100:1E90FF&height=50&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=80&section=footer" />
 </p>
