@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0EA5E9&height=180&section=header&text=TASK%2001%20%7C%20FILE%20ORGANIZER&fontSize=42&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=C%23%20%C2%B7%20.NET%209%20%C2%B7%20CLI%20%C2%B7%20xUnit&descAlignY=65&descSize=18&descColor=BAE6FD" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=160&section=header&text=FILE%20ORGANIZER&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=ArithMatrix%20AVIP%202026%20%7C%20C%23%20%7C%20.NET%209&descAlignY=64&descSize=16&descColor=E5F6FF" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C6FF&center=true&vCenter=true&width=600&lines=Task+01+%7C+ArithMatrix+AVIP+2026;Automated+File+Organization" />
 </p>
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)]()
-[![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]()
-[![Framework](https://img.shields.io/badge/.NET-9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
-[![Tests](https://img.shields.io/badge/Tests-34/34%20Passed-brightgreen?style=for-the-badge&logo=xunit)]()
-[![Internship](https://img.shields.io/badge/AVIP-2026-blueviolet?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)]()
+[![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white)]()
+[![Framework](https://img.shields.io/badge/.NET-9.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Tests-34/34%20Passed-brightgreen?style=flat-square&logo=xunit)]()
+[![Internship](https://img.shields.io/badge/AVIP-2026-blueviolet?style=flat-square)]()
 
-**Automated File Organization | C# | .NET 9 | CLI | xUnit**
+**ArithMatrix Virtual Internship Program 2026 — Software Development Track**
 
 </div>
 
 <br />
 
-## 📖 About The Project
+## About The Project
 
 The **File Organizer** is a robust, command-line interface (CLI) application built with C# and .NET 9. It automates the tedious process of sorting mixed files from a source directory into logically categorized subfolders within a target directory. 
 
@@ -23,7 +27,7 @@ Designed with clean architecture and separation of concerns, this tool evaluates
 
 ---
 
-## ⚠️ The Problem
+## The Problem
 
 - **Cluttered Workspaces**: Download and working directories quickly become disorganized mixes of images, documents, archives, and media.
 - **Manual Sorting is Error-Prone**: Manually moving hundreds of files is repetitive and risks accidental deletion or overwriting.
@@ -34,19 +38,19 @@ Designed with clean architecture and separation of concerns, this tool evaluates
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🗂️ **Automatic Classification**: Sorts files into `Images`, `Documents`, `Archives`, `Audio`, `Video`, and `Others` based on extension.
-- ⚙️ **Configurable Paths**: Accepts dynamic `--source` and `--target` directories via CLI arguments or a configuration file.
-- 🛡️ **Zero Data Loss**: **Never** overwrites existing files. Employs a deterministic conflict resolution strategy (`file_1.ext`, `file_2.ext`).
-- 👁️ **Dry-Run Mode**: Previews all planned operations without making any changes to the filesystem.
-- 🧩 **Edge Case Handling**: Safely processes files with multiple dots (e.g., `archive.tar.gz`), unknown extensions, and files with no extension at all.
-- 📝 **Comprehensive Logging**: Provides clear, structured console output and optional file logging for audit trails.
-- ✅ **Automated Testing**: Backed by a suite of 34 xUnit tests covering classification, conflicts, dry-run behavior, and error handling.
+- **Automatic Classification**: Sorts files into `Images`, `Documents`, `Archives`, `Audio`, `Video`, and `Others` based on extension.
+- **Configurable Paths**: Accepts dynamic `--source` and `--target` directories via CLI arguments or a configuration file.
+- **Zero Data Loss**: **Never** overwrites existing files. Employs a deterministic conflict resolution strategy (`file_1.ext`, `file_2.ext`).
+- **Dry-Run Mode**: Previews all planned operations without making any changes to the filesystem.
+- **Edge Case Handling**: Safely processes files with multiple dots (e.g., `archive.tar.gz`), unknown extensions, and files with no extension at all.
+- **Comprehensive Logging**: Provides clear, structured console output and optional file logging for audit trails.
+- **Automated Testing**: Backed by a suite of 34 xUnit tests covering classification, conflicts, dry-run behavior, and error handling.
 
 ---
 
-## 📂 Supported File Categories
+## Supported File Categories
 
 | Category | Supported Extensions |
 | :--- | :--- |
@@ -59,7 +63,7 @@ Designed with clean architecture and separation of concerns, this tool evaluates
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Parse Arguments**: Reads CLI flags (`--source`, `--target`, `--dry-run`, etc.) or loads a config file.
 2. **Validate Paths**: Ensures the source directory exists and that the target is not the same as, or nested inside, the source.
@@ -72,7 +76,7 @@ Designed with clean architecture and separation of concerns, this tool evaluates
 
 ---
 
-## 💻 CLI Usage
+## CLI Usage
 
 ### Standard Organization
 ```bash
@@ -96,7 +100,7 @@ dotnet run --project src\FileOrganizer -- --config "config.txt"
 
 ---
 
-## 🔄 Before / After Example
+## Before / After Example
 
 **Before (`TestSource/`)**
 ```text
@@ -130,7 +134,7 @@ TestTarget/
 
 ---
 
-## ⚔️ Conflict Resolution
+## Conflict Resolution
 
 The application guarantees **no data loss** through deterministic renaming. If a file with the same name exists in the destination, the incoming file is renamed by appending an incrementing counter *before* the final extension.
 
@@ -140,7 +144,7 @@ The application guarantees **no data loss** through deterministic renaming. If a
 
 ---
 
-## 👁️ Dry-Run Mode
+## Dry-Run Mode
 
 The `--dry-run` flag allows you to validate the organization logic without modifying the filesystem. No directories are created, and no files are moved.
 
@@ -166,7 +170,7 @@ The `--dry-run` flag allows you to validate the organization logic without modif
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 Task 01 File Organizer/
@@ -190,7 +194,7 @@ Task 01 File Organizer/
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## Testing & Quality Assurance
 
 The project includes a comprehensive automated test suite built with **xUnit**, utilizing temporary, isolated directories to ensure no impact on the host filesystem.
 
@@ -212,7 +216,7 @@ dotnet test
 
 ---
 
-## 🖥️ Sample Run Output
+## Sample Run Output
 
 ```text
 ==================================================
@@ -239,7 +243,7 @@ dotnet test
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *(Ensure these files exist in your `screenshots/` directory before pushing to GitHub)*
 
@@ -251,7 +255,7 @@ dotnet test
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
@@ -285,7 +289,7 @@ dotnet run --project src\FileOrganizer -- --source "<Your_Source_Path>" --target
 
 ---
 
-## 🧠 Engineering Notes
+## Engineering Notes
 
 This project demonstrates several core software engineering principles:
 - **Separation of Concerns**: Classification logic (`FileClassifier`) and conflict resolution (`ConflictResolver`) are decoupled from filesystem execution (`FileOrganizerService`), enabling pure, fast unit testing.
@@ -295,7 +299,7 @@ This project demonstrates several core software engineering principles:
 
 ---
 
-## 🎓 Internship Context
+## Internship Context
 
 This project was developed as part of the:
 **ArithMatrix Virtual Internship Program (AVIP) 2026**  
@@ -306,7 +310,7 @@ It fulfills all official internship requirements, including CLI configuration, d
 
 ---
 
-## ✅ Project Status
+## Project Status
 
 - [x] File classification by extension
 - [x] Category-based folder creation
@@ -320,7 +324,7 @@ It fulfills all official internship requirements, including CLI configuration, d
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 *Note: These are potential enhancements, not currently implemented features.*
 - Integration of GitHub Actions for CI/CD and automated test runs on push.
@@ -330,7 +334,7 @@ It fulfills all official internship requirements, including CLI configuration, d
 
 ---
 
-## 👤 Author
+## Author
 
 **Abdalla Mahmoud Samir**  
 
