@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Automated+File+Organization;Safe+Conflict+Resolution;Dry-Run+%26+CLI+Workflow;Built+with+C%23+%26+.NET+9" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0EA5E9&height=180&section=header&text=TASK%2001%20%7C%20FILE%20ORGANIZER&fontSize=42&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=C%23%20%C2%B7%20.NET%209%20%C2%B7%20CLI%20%C2%B7%20xUnit&descAlignY=65&descSize=18&descColor=BAE6FD" />
 </p>
 <div align="center">
 
