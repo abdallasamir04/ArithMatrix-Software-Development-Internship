@@ -199,7 +199,7 @@ Task 01 File Organizer/
 The project includes a comprehensive automated test suite built with **xUnit**, utilizing temporary, isolated directories to ensure no impact on the host filesystem.
 
 - **Total Tests**: 34
-- **Passed**: 34 ✅
+- **Passed**: 34 
 - **Failed**: 0
 - **Skipped**: 0
 
