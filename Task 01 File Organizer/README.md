@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=160&section=header&text=FILE%20ORGANIZER&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=ArithMatrix%20AVIP%202026%20%7C%20C%23%20%7C%20.NET%209&descAlignY=64&descSize=16&descColor=E5F6FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=160&section=header&text=FILE%20ORGANIZER&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42 />
 </p>
 
 <p align="center">
