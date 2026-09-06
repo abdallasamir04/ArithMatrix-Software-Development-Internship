@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1E90FF,100:00BFFF&height=120&section=header&text=Task%2001%20-%20File%20Organizer&fontSize=40&animation=twinkling&fontAlignY=35&desc=ArithMatrix%20Virtual%20Internship%20Program%202026&descAlignY=55&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=220&section=header&text=Task%2001%20-%20File%20Organizer&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ArithMatrix%20Virtual%20Internship%20Program%202026&descAlignY=60&descAlign=50" />
 </p>
 <div align="center">
 
