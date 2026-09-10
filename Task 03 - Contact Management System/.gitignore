@@ -1,0 +1,32 @@
+## .NET build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio / Rider / VS Code temporary files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+## OS-generated files
+.DS_Store
+Thumbs.db
+
+## Real application data.
+## The application creates data/contacts.json automatically on first
+## run. It must NEVER be committed, because it may end up containing
+## real personal contact information entered during actual use.
+## Only the fictional data in examples/sample_contacts.json is
+## committed to the repository.
+data/*.json
+!data/.gitkeep
+**/data/contacts.json
