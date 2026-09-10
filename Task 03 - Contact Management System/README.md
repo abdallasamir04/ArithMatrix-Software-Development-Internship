@@ -304,9 +304,9 @@ Test summary: total: 49, failed: 0, succeeded: 49, skipped: 0, duration: 5.1s
 | :---: | :---: |
 | ![Main Menu](screenshots/first%20run%20without%20any%20thing.png) | ![Empty State](screenshots/first%20run%20without%20any%20thing.png) |
 
-| Add Contact with JSON | List Contacts |
-| :---: | :---: |
-| ![Add Contact](screenshots/adding%20the%20data%20with%20json.png) | ![List Contacts](screenshots/show%20contacts.png) |
+| List Contacts |
+| :---: |
+| ![List Contacts](screenshots/show%20contacts.png) |
 
 | Running Tests | 
 | :---: |
