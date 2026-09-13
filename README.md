@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdalla+Samir;Software+Engineer+%7C+Backend+%26+.NET+Developer;ArithMatrix+Virtual+Internship+Program+2026;Task+01+%7C+Task+03+%7C+Task+04" />
 </p>
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/All%20Tasks-Complete-success?style=flat-square)]()
-[![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=flat-square&logo=csharp&logoColor=white)]()
-[![Framework](https://img.shields.io/badge/.NET-8%20%2F%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
-[![Tests](https://img.shields.io/badge/Combined%20Tests-103%2F103%20Passed-brightgreen?style=flat-square&logo=xunit)]()
-[![Internship](https://img.shields.io/badge/AVIP-2026-blueviolet?style=flat-square)]()
-
 
 ##  About Me : 
 
@@ -45,6 +37,15 @@
 </table>
 
 <br/>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/All%20Tasks-Complete-success?style=flat-square)]()
+[![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=flat-square&logo=csharp&logoColor=white)]()
+[![Framework](https://img.shields.io/badge/.NET-8%20%2F%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Combined%20Tests-103%2F103%20Passed-brightgreen?style=flat-square&logo=xunit)]()
+[![Internship](https://img.shields.io/badge/AVIP-2026-blueviolet?style=flat-square)]()
+
 
 
 **ArithMatrix Virtual Internship Program 2026 — Software Development Track**
