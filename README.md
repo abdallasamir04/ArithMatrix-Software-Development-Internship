@@ -30,9 +30,9 @@ This repository hub brings together **three independent console applications**, 
 
 
 
-<div align="center">
-  #Abdalla Mahmoud Samir
-#Software Engineer 
+##<div align="center">
+  Abdalla Mahmoud Samir
+<br>Software Engineer 
 </div>
 <br/>
 
