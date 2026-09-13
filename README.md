@@ -16,7 +16,8 @@
 
 **ArithMatrix Virtual Internship Program 2026 — Software Development Track**
 
-This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
+This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. 
+Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
 
 
 </div>
