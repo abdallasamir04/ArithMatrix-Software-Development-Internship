@@ -29,6 +29,8 @@ This repository hub brings together **three independent console applications**, 
   <b>Abdalla Mahmoud Samir</b>   Software Engineer (B.Sc., Faculty of Computer Science &amp; Artificial Intelligence, Assiut National University)<br/>
   Passionate about <b>backend engineering, clean architecture, and enterprise-grade .NET systems.</b>
 </div>
+<br/>
+
 
 <table align="center" style="border: none;">
   <tr>
