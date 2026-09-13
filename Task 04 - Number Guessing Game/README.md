@@ -202,19 +202,6 @@ dotnet test
 
 ---
 
-## Screenshots
-
-*(Note: Replace the placeholder image links below with actual screenshots of your terminal once captured)*
-
-| Main Menu | Gameplay & Feedback |
-| :---: |:---: |
-| ![Main Menu](screenshots/main_menu.png) | ![Gameplay](screenshots/gameplay.png) |
-
-| Final Summary | Input Validation |
-| :---: | :---: |
-| ![Summary](screenshots/summary.png) | ![Validation](screenshots/validation.png) |
-
----
 
 ## Installation & Setup
 
