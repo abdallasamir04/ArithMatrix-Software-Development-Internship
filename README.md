@@ -2,6 +2,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=220&section=header&text=ArithMatrix%20AVIP%202026&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Track%20%E2%80%94%203-Project%20Portfolio&descAlignY=55&descSize=18" />
 </p>
 
+
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/All%20Tasks-Complete-success?style=flat-square)]()
+[![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=flat-square&logo=csharp&logoColor=white)]()
+[![Framework](https://img.shields.io/badge/.NET-8%20%2F%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Combined%20Tests-103%2F103%20Passed-brightgreen?style=flat-square&logo=xunit)]()
+[![Internship](https://img.shields.io/badge/AVIP-2026-blueviolet?style=flat-square)]()
+
+
+
+**ArithMatrix Virtual Internship Program 2026 — Software Development Track**
+
+This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. 
+Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
+
+
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdalla+Samir;Software+Engineer+%7C+Backend+%26+.NET+Developer;ArithMatrix+Virtual+Internship+Program+2026;Task+01+%7C+Task+03+%7C+Task+04" />
 </p>
@@ -37,27 +59,6 @@
 </table>
 
 <br/>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/All%20Tasks-Complete-success?style=flat-square)]()
-[![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=flat-square&logo=csharp&logoColor=white)]()
-[![Framework](https://img.shields.io/badge/.NET-8%20%2F%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
-[![Tests](https://img.shields.io/badge/Combined%20Tests-103%2F103%20Passed-brightgreen?style=flat-square&logo=xunit)]()
-[![Internship](https://img.shields.io/badge/AVIP-2026-blueviolet?style=flat-square)]()
-
-
-
-**ArithMatrix Virtual Internship Program 2026 — Software Development Track**
-
-This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. 
-Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
-
-
-</div>
-
-<br/>
-
 
 
 
