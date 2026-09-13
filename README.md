@@ -26,6 +26,7 @@ This repository hub brings together **three independent console applications**, 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdalla+Samir;Software+Engineer+%7C+Backend+%26+.NET+Developer;ArithMatrix+Virtual+Internship+Program+2026;Task+01+%7C+Task+03+%7C+Task+04" />
 </p>
+</div>
 
 
 
