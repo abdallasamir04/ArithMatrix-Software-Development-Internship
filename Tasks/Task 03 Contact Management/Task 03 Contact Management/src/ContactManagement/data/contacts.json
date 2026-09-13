@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": 1,
+    "fullName": "أحمد محمد علي",
+    "phone": "01001234567",
+    "email": "ahmed.ali@example.com"
+  },
+  {
+    "id": 2,
+    "fullName": "فاطمة حسن إبراهيم",
+    "phone": "01112345678",
+    "email": "fatima.hassan@example.com"
+  },
+  {
+    "id": 3,
+    "fullName": "محمد عبد الرحمن محمود",
+    "phone": "01223456789",
+    "email": "mohamed.abdelrahman@example.com"
+  },
+  {
+    "id": 4,
+    "fullName": "نورا خالد سعيد",
+    "phone": "01534567890",
+    "email": "noura.khaled@example.com"
+  },
+  {
+    "id": 5,
+    "fullName": "عمر فاروق حسين",
+    "phone": "01045678901",
+    "email": "omar.farouk@example.com"
+  }
+]

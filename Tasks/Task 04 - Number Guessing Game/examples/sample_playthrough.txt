@@ -1,0 +1,35 @@
+This is an illustrative example playthrough. The exact numbers below
+are examples, not a captured transcript of an actual run.
+
+========================================
+       NUMBER GUESSING GAME
+========================================
+1. Start Game
+2. Instructions
+3. Exit
+
+Choose an option: 1
+
+Select difficulty:
+1. Easy   (1-50)
+2. Medium (1-100)
+3. Hard   (1-500)
+
+Choice: 2
+
+I have selected a number between 1 and 100.
+
+Enter your guess: 25
+Too low!
+Enter your guess: 75
+Too high!
+Enter your guess: 50
+Too low!
+Enter your guess: 60
+Correct!
+
+========================================
+GAME OVER
+========================================
+Secret Number: 60
+Attempts: 4
