@@ -20,7 +20,7 @@
 ## 📋 Repository Overview
 
 This repository contains the complete engineering deliverables for the **ArithMatrix Virtual Internship Program (AVIP) 2026**. Each task was treated as a standalone professional software project, built from scratch with industry-grade practices: **Clean Architecture, Test-Driven Development (TDD), Defensive Programming, and Comprehensive Documentation**.
-ش
+
 Rather than a collection of toy scripts, this repository demonstrates three distinct engineering case studies, each solving a real-world problem with deliberate architectural trade-offs.
 
 ---
