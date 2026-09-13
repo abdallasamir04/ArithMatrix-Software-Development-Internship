@@ -20,7 +20,7 @@
 
 <br/>
 
-## 👋 About the Developer
+##  About ME
 
 <div align="center">
   <b>Abdalla Mahmoud Samir</b> — Software Engineer (B.Sc., Faculty of Computer Science &amp; Artificial Intelligence, Assiut National University)<br/>
@@ -43,10 +43,6 @@ This README acts as the **single entry point** to all three projects — use the
 | 03 | [📇 Contact Management System](#-task-03--contact-management-system) | CRUD console app with JSON persistence | C# · .NET 8 | 49/49 ✅ |
 | 04 | [🎯 Number Guessing Game](#-task-04--number-guessing-game) | Interactive CLI game with layered architecture | C# · .NET 8 | 20/20 ✅ |
 
-- [🧰 Combined Tech Stack](#-combined-tech-stack)
-- [📦 Repository Structure (All Tasks)](#-repository-structure-all-tasks)
-- [⚙️ General Installation & Setup](#️-general-installation--setup)
-- [🌐 Connect With Me](#-connect-with-me)
 
 ---
 
