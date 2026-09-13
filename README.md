@@ -18,21 +18,17 @@
 
 This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
 
-This README acts as the **single entry point** to all three projects — use the table of contents below to jump directly to any task, or scroll through for the complete documentation of each one.
-
 
 </div>
 
 <br/>
 
-##  About ME
+##  About Me : 
 
 <div align="center">
   <b>Abdalla Mahmoud Samir</b>   Software Engineer (B.Sc., Faculty of Computer Science &amp; Artificial Intelligence, Assiut National University)<br/>
   Passionate about <b>backend engineering, clean architecture, and enterprise-grade .NET systems.</b>
 </div>
-
-## 🌐 Connect With Me
 
 <table align="center" style="border: none;">
   <tr>
