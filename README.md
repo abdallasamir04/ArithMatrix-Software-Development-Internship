@@ -16,6 +16,11 @@
 
 **ArithMatrix Virtual Internship Program 2026 — Software Development Track**
 
+This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
+
+This README acts as the **single entry point** to all three projects — use the table of contents below to jump directly to any task, or scroll through for the complete documentation of each one.
+
+
 </div>
 
 <br/>
@@ -23,15 +28,34 @@
 ##  About ME
 
 <div align="center">
-  <b>Abdalla Mahmoud Samir</b> — Software Engineer (B.Sc., Faculty of Computer Science &amp; Artificial Intelligence, Assiut National University)<br/>
+  <b>Abdalla Mahmoud Samir</b>   Software Engineer (B.Sc., Faculty of Computer Science &amp; Artificial Intelligence, Assiut National University)<br/>
   Passionate about <b>backend engineering, clean architecture, and enterprise-grade .NET systems.</b>
 </div>
 
+## 🌐 Connect With Me
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
+        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="mailto:samirovic707@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/abdallasamir04">
+        <img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-This repository hub brings together **three independent console applications**, each built as a standalone deliverable for the ArithMatrix Virtual Internship Program (AVIP) 2026 — Software Development Track. Every project follows the same engineering philosophy: **layered/clean architecture, defensive programming, zero external dependencies beyond the .NET base class library, and full automated test coverage with xUnit.**
-
-This README acts as the **single entry point** to all three projects — use the table of contents below to jump directly to any task, or scroll through for the complete documentation of each one.
 
 ---
 
@@ -1063,27 +1087,7 @@ Each task folder is fully self-contained (its own `.sln`, `src/`, `tests/`, and 
 
 ---
 
-## 🌐 Connect With Me
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
-        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="mailto:samirovic707@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/abdallasamir04">
-        <img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <sub>Built with C# 12 and .NET 8/9 as part of the ArithMatrix Virtual Internship Program 2026 — Software Development Track</sub>
